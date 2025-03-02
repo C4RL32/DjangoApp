@@ -1,0 +1,21 @@
+# Archivos de Python
+*.pyc
+__pycache__/
+
+# Entorno virtual
+venv/
+env/
+
+# Archivos de configuración locales
+*.sqlite3
+*.log
+*.env
+.env
+
+# Archivos de compilación de VSCode y PyCharm
+.vscode/
+.idea/
+
+# Archivos de migraciones (opcionales, puedes subirlos si quieres)
+*/migrations/*.pyc
+*/migrations/__pycache__/
