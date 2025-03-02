@@ -48,7 +48,7 @@ def home(request):
             <h1>Bienvenidos a Mi Proyecto Django</h1>
             <p>
                 Django es un framework web de alto nivel que te permite crear aplicaciones web de forma rápida y eficiente. 
-                Fue creado en Python y su objetivo es hacer el desarrollo web más simple y limpio, usando el principio de "No te repitas" (DRY - Don't Repeat Yourself).
+                Fue creado en Python y su objetivo es hacer el desarrollo web más simple y limpio.
             </p>
             <p>
                 Con Django, puedes crear desde aplicaciones sencillas hasta sistemas web complejos, utilizando herramientas integradas para manejo de bases de datos, 
@@ -57,6 +57,7 @@ def home(request):
             <p class="author">
                 Página elaborada por: <strong>Carlos Hernández</strong>
             </p>
+            <p>Materia de Infraestrcutura Web</P>
         </div>
     </body>
     </html>
